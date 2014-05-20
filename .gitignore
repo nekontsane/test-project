@@ -1,0 +1,4 @@
+# Add all files that you want not to be tracked
+.*
+*.vb
+*.cs
